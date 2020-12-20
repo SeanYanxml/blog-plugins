@@ -40,3 +40,4 @@
 
 ### Linux网络模型
 * epoll
+* select
